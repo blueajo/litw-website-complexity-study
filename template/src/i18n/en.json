@@ -30,5 +30,9 @@
     "litw-instruct-body-2-p1": "You will be either asked to rate the screenshot on either your perceived usability or how appealing the website is to you.  Let's give it a try!",
     "litw-instruct-body-2-p2": "After your choice, we will run some hyper-complicated algorithms to predict your future. Let's give it a try!",
     "litw-instruct-body-2-p1-touch": "You will be either asked to rate the screenshot on either your perceived usability or how appealing the website is to you.  Let's give it a try!",
-    "litw-instruct-body-2-p2-touch": "After your choice, we will run some hyper-complicated algorithms to predict your future. Let's give it a try!"
+    "litw-instruct-body-2-p2-touch": "After your choice, we will run some hyper-complicated algorithms to predict your future. Let's give it a try!",
+    "litw-instruct2-body-1-p1": "You'll be shown website screenshots like this:",
+    "litw-instruct2-body-2-p1-touch":"We will provide some sort of criteria and you will be tasked with searching the website and clicking on the section that matches the criteria.  Try to do this as fast as possible!",
+    "litw-instruct2-body-2-p1":"We will provide some sort of criteria and you will be tasked with searching the website and clicking on the section that matches the criteria.  Try to do this as fast as possible!"
+
 }
