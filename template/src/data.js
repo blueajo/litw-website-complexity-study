@@ -4,9 +4,9 @@
  * Raw data for the LITW demo study.
  *
  * Author: Trevor Croxson
- * 
+ *
  * Last Modified: February 5, 2017
- * 
+ *
  * © Copyright 2017 LabintheWild.
  * For questions about this file and permission to use
  * the code, contact us at info@labinthewild.org
@@ -27,20 +27,144 @@ module.exports = {
 	"midTrial": {
 		"header": "You're doing great! Take a breather."
 	},
-	"practiceCats": [
+	"practiceRating": [
 		{
 			"type": "single-stim",
 			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
 			"is_html": true,
-			"choices": [49, 50], // the numbers 1 - 2
-			"prompt": "Which picture do you identify with most? <span class='bolded-blue'>(Press 1 to select the left image and 2 to select the right image. You may also use your mouse to click on an image.)</span>",
-			"promptWithTouch": "Which picture do you identify with most? <span class='bolded-blue'>(Tap on an image to select it.)</span>"
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
 		}
 	],
-	"trialCats": [
+	"trialComplexity": [
 		{
 			"type": "single-stim",
-			"stimulus": "<img src='img/stim-img/cat3.jpg' class='left-stim' /><img src='img/stim-img/cat4.jpg' class='right-stim' />",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		},
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		},
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		},
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		},
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		},
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		}
+	],
+	"trialUsability": [
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		},
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		},
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		},
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		},
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		},
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		}
+	],
+	"practiceTask": [
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+			"is_html": true,
+			"choices": [49, 50, 51, 52, 53, 53, 55, 56, 57], // the numbers 1 - 2
+			"timing_stim": 50,
+			"prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
+			"promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+		}
+	],
+	"trialTasks": [
+		{
+			"type": "single-stim",
+			"stimulus": "<img src='img/stim-img/cat9.jpg' class='left-stim' /><img src='img/stim-img/cat10.jpg' class='right-stim' />",
 			"is_html": true,
 			"choices": [49, 50], // the numbers 1 - 2
 			"prompt": "Which picture do you identify with most? <span class='bolded-blue'>(Press 1 to select the left image and 2 to select the right image. You may also use your mouse to click on an image.)</span>",
@@ -57,14 +181,6 @@ module.exports = {
 		{
 			"type": "single-stim",
 			"stimulus": "<img src='img/stim-img/cat7.jpg' class='left-stim' /><img src='img/stim-img/cat8.jpg' class='right-stim' />",
-			"is_html": true,
-			"choices": [49, 50], // the numbers 1 - 2
-			"prompt": "Which picture do you identify with most? <span class='bolded-blue'>(Press 1 to select the left image and 2 to select the right image. You may also use your mouse to click on an image.)</span>",
-			"promptWithTouch": "Which picture do you identify with most? <span class='bolded-blue'>(Tap on an image to select it.)</span>"
-		},
-		{
-			"type": "single-stim",
-			"stimulus": "<img src='img/stim-img/cat9.jpg' class='left-stim' /><img src='img/stim-img/cat10.jpg' class='right-stim' />",
 			"is_html": true,
 			"choices": [49, 50], // the numbers 1 - 2
 			"prompt": "Which picture do you identify with most? <span class='bolded-blue'>(Press 1 to select the left image and 2 to select the right image. You may also use your mouse to click on an image.)</span>",
