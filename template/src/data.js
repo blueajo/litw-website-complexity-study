@@ -163,12 +163,20 @@ module.exports = {
 	],
 	"trialTasks": [
 		{
-			"type": "single-stim",
-			"stimulus": "<img src='img/stim-img/cat9.jpg' class='left-stim' /><img src='img/stim-img/cat10.jpg' class='right-stim' />",
-			"is_html": true,
-			"choices": [49, 50], // the numbers 1 - 2
-			"prompt": "Which picture do you identify with most? <span class='bolded-blue'>(Press 1 to select the left image and 2 to select the right image. You may also use your mouse to click on an image.)</span>",
-			"promptWithTouch": "Which picture do you identify with most? <span class='bolded-blue'>(Tap on an image to select it.)</span>"
+			timeline: [
+				// give search task
+				{
+					"type": "instructions",
+					"pages": ["Click the thingy as fast as you can. When ready, press space"],
+					"key_forward": 32
+				},
+				// image search
+				{
+					"type": ""
+				},
+				// peripheral questions
+				{}
+			]
 		},
 		{
 			"type": "single-stim",
