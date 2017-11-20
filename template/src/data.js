@@ -154,18 +154,18 @@ module.exports = {
      {
        "type": "single-stim",
        "is_html": true,
-       "prompt": "Click the thingy as fast as you can. When ready, press space",
+       "prompt": "Click to access the 'Parks & Outdoors Travel Guide. When ready, press space",
        "choices": [32], // the numbers 1 - 2
     },
     {
        "type": "single-stim",
        "is_html": true,
-       "prompt": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+       "prompt": "<img src='img/stim-img/trialPartB.png' />",
        "choices": [32], // the numbers 1 - 2
     },
     {
        "type": "single-stim",
-       "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><p>Which quadrant is this image in?</p>",
+       "stimulus": "<img src='img/stim-img/trialEmoji.png' /><p>Which quadrant is this image in?</p>",
        "is_html": true,
        "prompt": "Type [1] for Top Left, [2] for Top Right, [3] for Bottom Left, [4] for Bottom Right",
        "choices": [49, 50, 51, 52], // the numbers 1 - 2
@@ -176,18 +176,18 @@ module.exports = {
 		 {
 				"type": "single-stim",
 				"is_html": true,
-				"prompt": "Click the thingy as fast as you can. When ready, press space",
+				"prompt": "Click to change the language. When ready, press space",
 				"choices": [32], // the numbers 1 - 2
 		 },
 		 {
 				"type": "single-stim",
 				"is_html": true,
-				"prompt": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+				"prompt": "<img src='img/stim-img/mediumPartB.png' />",
 				"choices": [32], // the numbers 1 - 2
 		 },
 		 {
 				"type": "single-stim",
-				"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><p>Which quadrant is this image in?</p>",
+				"stimulus": "<img src='img/stim-img/emojiMedium.png' /><p>Which quadrant is this image in?</p>",
 				"is_html": true,
 				"prompt": "Type [1] for Top Left, [2] for Top Right, [3] for Bottom Left, [4] for Bottom Right",
 				"choices": [49, 50, 51, 52], // the numbers 1 - 2
@@ -196,18 +196,18 @@ module.exports = {
 		 {
 				"type": "single-stim",
 				"is_html": true,
-				"prompt": "Click the thingy as fast as you can. When ready, press space",
+				"prompt": "Click on the the title of the quize that was staff created and has 5 stars. When ready, press space",
 				"choices": [32], // the numbers 1 - 2
 		 },
 		 {
 				"type": "single-stim",
 				"is_html": true,
-				"prompt": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+				"prompt": "<img src='img/stim-img/highPartB.png' />",
 				"choices": [32], // the numbers 1 - 2
 		 },
 		 {
 				"type": "single-stim",
-				"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><p>Which quadrant is this image in?</p>",
+				"stimulus": "<img src='img/stim-img/emojiHigh.png' /><p>Which quadrant is this image in?</p>",
 				"is_html": true,
 				"prompt": "Type [1] for Top Left, [2] for Top Right, [3] for Bottom Left, [4] for Bottom Right",
 				"choices": [49, 50, 51, 52], // the numbers 1 - 2
@@ -216,21 +216,21 @@ module.exports = {
 		 {
 				"type": "single-stim",
 				"is_html": true,
-				"prompt": "Click the thingy as fast as you can. When ready, press space",
+				"prompt": "Click to sign up for a new account. When ready, press space",
 				"choices": [32], // the numbers 1 - 2
 		 },
 		 {
 				"type": "single-stim",
 				"is_html": true,
-				"prompt": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+				"prompt": "<img src='img/stim-img/lowPartB.png' />",
 				"choices": [32], // the numbers 1 - 2
 		 },
 		 {
 				"type": "single-stim",
-				"stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><p>Which quadrant is this image in?</p>",
+				"stimulus": "<img src='img/stim-img/emojiLow.png' /><p>Was this image on the website?</p>",
 				"is_html": true,
-				"prompt": "Type [1] for Top Left, [2] for Top Right, [3] for Bottom Left, [4] for Bottom Right",
-				"choices": [49, 50, 51, 52], // the numbers 1 - 2
+				"prompt": "Type [1] for Yes, [2] for No",
+				"choices": [49, 50], // the numbers 1 - 2
 		 }
    ],
    "loadingMsg": "Loading resources:",
