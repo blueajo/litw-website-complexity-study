@@ -30,7 +30,7 @@ module.exports = {
    "practiceRating": [
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/low1.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -41,7 +41,7 @@ module.exports = {
    "trialComplexity": [
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/low2.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -50,7 +50,7 @@ module.exports = {
       },
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/medium1.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -59,7 +59,7 @@ module.exports = {
       },
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/medium2.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -68,7 +68,7 @@ module.exports = {
       },
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/high1.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -77,7 +77,7 @@ module.exports = {
       },
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/high2.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -86,7 +86,7 @@ module.exports = {
       },
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/high3.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -97,7 +97,7 @@ module.exports = {
    "trialUsability": [
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/low3.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -106,7 +106,7 @@ module.exports = {
       },
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/low4.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -115,7 +115,7 @@ module.exports = {
       },
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/medium3.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -124,7 +124,7 @@ module.exports = {
       },
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/medium4.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -133,7 +133,7 @@ module.exports = {
       },
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/high4.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
@@ -142,7 +142,7 @@ module.exports = {
       },
       {
          "type": "single-stim",
-         "stimulus": "<img src='img/stim-img/cat1.jpg' class='left-stim' /><img src='img/stim-img/cat2.jpg' class='right-stim' />",
+         "stimulus": "<img src='img/stim-img/high5.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
