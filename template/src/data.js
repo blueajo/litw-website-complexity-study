@@ -35,7 +35,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       }
    ],
    "trialComplexity": [
@@ -46,7 +46,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       },
       {
          "type": "single-stim",
@@ -55,7 +55,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       },
       {
          "type": "single-stim",
@@ -64,7 +64,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       },
       {
          "type": "single-stim",
@@ -73,7 +73,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       },
       {
          "type": "single-stim",
@@ -82,7 +82,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       },
       {
          "type": "single-stim",
@@ -91,7 +91,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       }
    ],
    "trialUsability": [
@@ -102,7 +102,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       },
       {
          "type": "single-stim",
@@ -111,7 +111,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       },
       {
          "type": "single-stim",
@@ -120,7 +120,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       },
       {
          "type": "single-stim",
@@ -129,7 +129,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       },
       {
          "type": "single-stim",
@@ -138,7 +138,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       },
       {
          "type": "single-stim",
@@ -147,7 +147,7 @@ module.exports = {
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
          "timing_stim": 50,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
-         "promptWithTouch": "How would you rate this website's complexity on a scale from 1 - 9?</span>"
+         "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       }
    ],
    "practiceTask": [

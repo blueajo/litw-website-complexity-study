@@ -27,8 +27,8 @@
     "litw-irb-warning": "You must check the box to continue.",
     "litw-instruct-header": "Please read these instructions carefully.",
     "litw-instruct-body-1-p1": "You'll be shown website screenshots like this for 50 ms:",
-    "litw-instruct-body-2-p1": "You will be either asked to rate the screenshot on how appealing the website is to you.  Let's give it a try!",
+    "litw-instruct-body-2-p1": "You will be either asked to rate each website on how appealing it is to you.  Let's give it a try!",
     "litw-instruct-body-1-p2": "As before, you'll be shown website screenshots like this for 50 ms:",
-    "litw-instruct-body-2-p2": "However, this time, you will be asked to rate the screenshots on their usability",
-    "litw-instruct-body-1-p3": "We will provide some sort of crieteria and you will be tasked with searching the website amd clicking on the part that matches the criteria. Try to do this as quickly as possible."
+    "litw-instruct-body-2-p2": "However, this time, you will be asked to rate the websites on their usability instead of appeal.",
+    "litw-instruct-body-1-p3": "You've finished the first part! In the each trial of the second part of the study, you will be presented a search task to complete on a website, which you can start whenever ready. Try to complete the task as quickly as possible. Afterwards, we will ask you a question about the website."
 }

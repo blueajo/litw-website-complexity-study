@@ -228,7 +228,6 @@ module.exports = (function() {
       });
 
       // Practice for part B
-        params.practiceStimsB = LITW.utils.shuffleArrays(params.practiceStimsB);
         params.practiceStimsB.forEach(function(stim, index) {
 
             // record tracking information
@@ -403,7 +402,7 @@ module.exports = (function() {
 
       LITW.utils.showSlide("img-loading");
 
-      var allstims = [params.practiceStimsA, params.stimC, params.stimU, params.practiceStimsB, params.stimT];
+      var allstims = params.practiceStimsA.concat(params.stimC).concat(params.stimU).concat(params.practiceStimsB).concat(params.stimT);
 
       // preload images
       jsPsych.pluginAPI.preloadImages(allstims,
