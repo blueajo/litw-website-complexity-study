@@ -21,14 +21,14 @@
     "litw-irb-body-5-p1": "Duration:",
     "litw-irb-body-5-p2": "Approximately 10 minutes.",
     "litw-irb-body-6-p1": "Contact information:",
-    "litw-irb-body-6-p2": "If you have questions about this research, you may contact Blue Jo and Dean Barlan, Research Assistants, University of Washington.",
+    "litw-irb-body-6-p2": "If you have questions about this research, you may contact Professor Katharina Reinecke, Paul G. Allen Center for Computer Science & Engineering, Box 352350, Seattle, WA 98195, reinecke@cs.washington.edu.",
     "litw-irb-body-final": "If you have questions about your rights as a research participant, or wish to obtain information, ask questions or discuss any concerns about this study with someone other than the researcher(s), please contact the Unversity of Washington IRB.",
     "litw-irb-consent": "By ticking this box, you are agreeing to be in the study. Be sure that questions you have about the study have been answered and that you understand what you are being asked to do. You may contact the researcher if you think of a question later. You are free to leave the experiment at any time, and refusing to be in the experiment or stopping participation will involve no penalty or loss of benefits to which you are otherwise entitled.",
     "litw-irb-warning": "You must check the box to continue.",
     "litw-instruct-header": "Please read these instructions carefully.",
-    "litw-instruct-body-1-p1": "You'll be shown website screenshots like this for 50 ms:",
+    "litw-instruct-body-1-p1": "You'll be shown website screenshots like this for 500 ms:",
     "litw-instruct-body-2-p1": "You will be either asked to rate each website on how appealing it is to you.  Let's give it a try!",
-    "litw-instruct-body-1-p2": "As before, you'll be shown website screenshots like this for 50 ms:",
+    "litw-instruct-body-1-p2": "As before, you'll be shown website screenshots like this for 500 ms:",
     "litw-instruct-body-2-p2": "However, this time, you will be asked to rate the websites on their usability instead of appeal.",
     "litw-instruct-body-1-p3": "You've finished the first part! In the each trial of the second part of the study, you will be presented a search task to complete on a website, which you can start whenever ready. Try to complete the task as quickly as possible. Afterwards, we will ask you a question about the website."
 }

@@ -33,7 +33,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/low1.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       }
@@ -44,7 +44,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/low2.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       },
@@ -53,7 +53,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/medium1.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       },
@@ -62,7 +62,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/medium2.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       },
@@ -71,7 +71,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/high1.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       },
@@ -80,7 +80,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/high2.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       },
@@ -89,7 +89,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/high3.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's appeal on a scale from 1 - 9?</span>"
       }
@@ -100,7 +100,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/low3.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       },
@@ -109,7 +109,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/low4.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       },
@@ -118,7 +118,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/medium3.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       },
@@ -127,7 +127,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/medium4.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       },
@@ -136,7 +136,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/high4.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       },
@@ -145,7 +145,7 @@ module.exports = {
          "stimulus": "<img src='img/stim-img/high5.png' />",
          "is_html": true,
          "choices": [49, 50, 51, 52, 53, 54, 55, 56, 57], // the numbers 1 - 2
-         "timing_stim": 50,
+         "timing_stim": 500,
          "prompt": "How would you rate this website's complexity on a scale from 1 - 9? [Press a key from 1-9 on keyboard]</span>",
          "promptWithTouch": "How would you rate this website's usability on a scale from 1 - 9?</span>"
       }
